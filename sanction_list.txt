@@ -1,0 +1,5 @@
+blocked-example.com
+restricted-example.net
+doubleclick.net
+service.example.org
+both.example.com

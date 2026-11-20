@@ -1,0 +1,8 @@
+doubleclick.net
+ads.example.com
+adservice.google.com
+test-ad.com
+ads.example.com
+tracker.example.net
+both.example.com
+newad.example.com
