@@ -136,3 +136,20 @@
 2026-11-20 12:44:42 | github.com | UPSTREAM | OK | 140.82.112.4 | 90
 2026-11-20 12:44:42 | aaaaa.com | UPSTREAM | NOT_FOUND | - | -
 2026-11-20 12:44:42 | google.com | CACHE | OK | 142.250.190.14 | 119
+2026-11-20 21:35:26 | ads.example.com | AD_BLOCK | OK | 0.0.0.0 | 60
+2026-11-20 21:35:39 | sub.ads.example.com | AD_BLOCK | OK | 0.0.0.0 | 60
+2026-11-20 21:35:48 | ads.example.com | AD_BLOCK | OK | 0.0.0.0 | 60
+2026-11-20 21:36:04 | notads.example.com | UPSTREAM | OK | 198.51.100.7 | 5
+2026-11-20 21:36:25 | service.example.org | SANCTION | OK | 192.0.2.10 | 60
+2026-11-20 21:36:34 | both.example.com | AD_BLOCK | OK | 0.0.0.0 | 60
+2026-11-20 21:36:45 | normal.example.net | UPSTREAM | OK | 198.51.100.7 | 5
+2026-11-20 21:37:00 | normal.example.net | UPSTREAM | OK | 198.51.100.7 | 5
+2026-11-20 21:37:14 | normal.example.net | UPSTREAM | OK | 198.51.100.7 | 5
+2026-11-20 21:37:16 | normal.example.net | CACHE | OK | 198.51.100.7 | 3
+2026-11-20 21:37:25 | missing.example.net | UPSTREAM | NOT_FOUND | - | -
+2026-11-20 21:37:32 | missing.example.net | UPSTREAM | NOT_FOUND | - | -
+2026-11-20 21:37:40 | other.example.net | UPSTREAM | OK | 198.51.100.7 | 5
+2026-11-20 21:37:54 | ads.example.com | AD_BLOCK | OK | 0.0.0.0 | 60
+2026-11-20 21:38:01 | bad domain.com | NONE | INVALID_INPUT | - | -
+2026-11-20 21:38:17 | ads.example.com | AD_BLOCK | OK | 0.0.0.0 | 60
+2026-11-20 21:38:28 | normal.example.net | UPSTREAM | OK | 198.51.100.7 | 5
